@@ -148,7 +148,7 @@ body {
 .newsletter {
     margin: auto;
     margin-top: 50px;
-    background-image: url("/Background.png");
+    background-image: url("./Background.png");
     height: 449px;
     width: 1440px;
     background-repeat: no-repeat;
