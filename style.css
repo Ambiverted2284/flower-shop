@@ -1,0 +1,86 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.text-primary{
+    color: #E55473;
+}
+.btn-primary{
+    background-color: #E55473;
+    color: white;
+    border-radius: 5px;
+}
+
+.banner{
+    display: flex;
+    align-items: center;
+    background-color: #ffc3d0;
+    justify-content: center;
+}
+.banner-text{
+    width: 500px;
+    padding-right: 150px;
+}
+.banner-img{
+    width: 635px;
+    height: 800px;
+}
+.banner-heading{
+   font-weight: 900;
+}
+.banner-description{
+    font-weight: 600px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.btn-shop{
+    width: 120px ;
+    height: 40px;
+}
+
+/* .featured{
+   margin-left: 150px;
+
+} */
+.featured-items{
+    text-align: center;
+}
+.featured-flowers{
+    display: flex;
+    justify-content: center;
+}
+.bg-1{
+    background-color: #a7216263;
+    width: 464px;
+    height: 605px;
+    margin: 20px;
+    border-radius: 250px 250px 0px 0px;
+}
+.bg-2{
+    background-color: #0598a052;
+    width: 464px;
+    height: 605px;
+    margin: 20px;
+    border-radius: 250px 250px 0px 0px;
+}
+.bg-3{
+    background-color: #477d1144;
+    width: 464px;
+    height: 605px;
+    margin: 20px;
+    border-radius: 250px 250px 0px 0px;
+}
+.featured-text{
+    text-align: center;
+    font-size: larger;
+    color: black;
+}
+.hot-deal{
+    background-color: #ffc3d048;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.hot-deal-text{
+    text-align: center;
+    
+}
