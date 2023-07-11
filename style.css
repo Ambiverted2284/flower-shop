@@ -151,3 +151,22 @@ body {
 .rights{
     color: grey;
 }
+
+.vase{
+    width: 1440px;
+    height: 605px;
+    margin: 150px;
+}
+.vase-img{
+    height: 350px;
+    width: 254px;
+}
+.vase-text{
+    text-align: center;
+    font-size: x-large;
+}
+.vase-collection{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
