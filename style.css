@@ -1,39 +1,46 @@
-body{
+body {
     font-family: 'Open Sans', sans-serif;
 }
-.text-primary{
+
+.text-primary {
     color: #E55473;
 }
-.btn-primary{
+
+.btn-primary {
     background-color: #E55473;
     color: white;
     border-radius: 5px;
 }
 
-.banner{
+.banner {
     display: flex;
     align-items: center;
     background-color: #ffc3d0;
     justify-content: center;
 }
-.banner-text{
+
+.banner-text {
     width: 500px;
     padding-right: 150px;
 }
-.banner-img{
+
+.banner-img {
     width: 635px;
     height: 800px;
 }
-.banner-heading{
-   font-weight: 900;
+
+.banner-heading {
+    font-weight: 900;
 }
-.banner-description{
+
+.banner-description {
     font-weight: 600px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.btn-shop{
-    width: 120px ;
+
+.btn-shop {
+    width: 120px;
     height: 40px;
 }
 
@@ -41,46 +48,106 @@ body{
    margin-left: 150px;
 
 } */
-.featured-items{
+.featured-items {
     text-align: center;
+    font-size: x-large;
 }
-.featured-flowers{
+
+.featured-flowers {
     display: flex;
     justify-content: center;
 }
-.bg-1{
+
+.bg-1 {
     background-color: #a7216263;
     width: 464px;
     height: 605px;
     margin: 20px;
     border-radius: 250px 250px 0px 0px;
 }
-.bg-2{
+
+.bg-2 {
     background-color: #0598a052;
     width: 464px;
     height: 605px;
     margin: 20px;
     border-radius: 250px 250px 0px 0px;
 }
-.bg-3{
+
+.bg-3 {
     background-color: #477d1144;
     width: 464px;
     height: 605px;
     margin: 20px;
     border-radius: 250px 250px 0px 0px;
 }
-.featured-text{
+.featured-img{
+    padding: 100px 50px 0px 50px;
+}
+
+.featured-text {
     text-align: center;
     font-size: larger;
     color: black;
 }
-.hot-deal{
+
+.hot-deal {
     background-color: #ffc3d048;
     margin-top: 50px;
     display: flex;
     justify-content: center;
 }
-.hot-deal-text{
+
+
+.hot-deal-text {
     text-align: center;
-    
+}
+
+.social {
+    display: block;
+    justify-content: center;
+}
+
+.social-heading {
+    font-size: x-large;
+    text-align: center;
+}
+
+.social-img {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.newsletter {
+    margin: auto;
+    margin-top: 50px;
+    background-image: url('/Background.png');
+    height: 449px;
+    width: 1440px;
+    background-repeat: no-repeat;
+}
+
+.newsletter-text {
+    padding-top: 100px;
+    text-align: center;
+    font-size: x-large;
+}
+
+.newsletter-form {
+
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+    height: 449px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 100px;
+}
+.rights{
+    color: grey;
 }
